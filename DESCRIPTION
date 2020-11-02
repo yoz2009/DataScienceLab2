@@ -1,0 +1,12 @@
+Package: DataScienceLab2
+Type: Package
+Title: DataScienceLab2
+Version: 0.1.0
+Author: Yongkang Zhang
+Maintainer: Yongkang Zhang <yoz2009@med.cornell.edu>
+Description: Two functions included in this package, drgplot plot a boxplot of payments by DRG code.
+  drgsummary calculates statistics over all of the DRG codes for average Medicare payments
+License: NONE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
